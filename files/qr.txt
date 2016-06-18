@@ -1,0 +1,1 @@
+{"onkologie":1,"krebserkrankungen":1,"geburt":1,"intensivmedizin":1,"stoffwechsel":2,"herz-und-lungenerkrankungen":1,"psychosomatisch":1,"altersmedizin":1}
